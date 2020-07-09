@@ -1036,6 +1036,30 @@ section {
     -ms-border-radius: 50%;
     border-radius: 50%;
   }
+
+  .doctor1 {
+    /* width: 50%; */
+    /* float: left; */
+    /* display: block; */
+    /* margin-bottom: 40px; */
+   
+  }
+  .doctor1 img {
+    /* margin: 40px; */
+  }
+  .doctor1 .staff-img1 {
+    width: 230px;
+    height: 230px;
+    /* margin:20px; */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    /* margin-bottom: 20px; */
+    /* display: table; */
+
+    border-radius: 0% !important;
+  }
   .doctor h3 {
     font-size: 20px;
     margin-bottom: 10px;
@@ -1388,6 +1412,18 @@ ul.top-info li p.info-text {
     padding: 80px 20px;
     transition: all ease-in-out 0.3s;
     background: #fff;
+  }
+  .icon-box1 {
+    text-align: center;
+    border: 1px solid #e5f0d5;
+    padding: 80px 20px;
+    transition: all ease-in-out 0.3s;
+    background: #fff;
+   
+    background-size: auto;
+    background-position: center;
+   
+    height: 250px;
   }
   
   .servicest .icon-box .icon {
